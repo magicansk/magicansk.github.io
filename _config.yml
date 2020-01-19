@@ -176,41 +176,68 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _TechNews
   - scope:
       path: ""
-      type: teaching
+      type: TechNews
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _Art
   - scope:
       path: ""
-      type: publications
+      type: Art
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _Finance
   - scope:
       path: ""
-      type: portfolio
+      type: Finance
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _MovienDrama
   - scope:
       path: ""
-      type: talks
+      type: MovienDrama
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+   # _System
+  - scope:
+      path: ""
+      type: System
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+     # _Programming
+  - scope:
+      path: ""
+      type: Programming
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true  
+       # _Network
+  - scope:
+      path: ""
+      type: Network
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
