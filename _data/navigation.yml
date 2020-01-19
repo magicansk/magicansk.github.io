@@ -1,22 +1,25 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "System"
+    url: /System/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Programming"
+    url: /Programming/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Network"
+    url: /Network/    
+
+  - title: "TechNews"
+    url: /TechNews/    
+    
+  - title: "Finance"
+    url: /Finance/
+    
+  - title: "Movie & Drama"
+    url: /MovienDrama/
+    
+  - title: "ART"
+    url: /Art/
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
