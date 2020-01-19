@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+ - This a PET website launched on Amazon EC2 (Ubuntu 18.04 LTS Apache/MySQL/PHP)
+    - [PET WEBSITE](http://ec2-54-188-89-42.us-west-2.compute.amazonaws.com) 
+    - [Github source code](https://github.com/magicansk/PETWEB.git)
+ 
  - [Security](https://magicansk.github.io/InfoSec_Practice/TOC)  
  
  - [Linux Practice](https://magicansk.github.io/Linux_Practice/TOC)  
