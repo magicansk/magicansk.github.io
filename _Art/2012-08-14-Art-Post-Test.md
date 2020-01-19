@@ -1,7 +1,7 @@
 ---
 title: 'Art Post Test'
 date: 2012-08-14
-permalink: /posts/2012/08/Art-Post-Test/
+permalink: /Art/2012/08/Art-Post-Test/
 tags:
   - test
 
