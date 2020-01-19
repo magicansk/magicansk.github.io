@@ -142,20 +142,28 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  System:
     output: true
     permalink: /:collection/:path/
-  publications:
+  Programming:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  Network:
     output: true
     permalink: /:collection/:path/
-  talks:
+  TechNews:
     output: true
     permalink: /:collection/:path/
-
-
+  Finance:
+    output: true
+    permalink: /:collection/:path/
+  MovienDrama:
+    output: true
+    permalink: /:collection/:path/
+  Art:
+    output: true
+    permalink: /:collection/:path/
+    
 # Defaults
 defaults:
   # _posts
