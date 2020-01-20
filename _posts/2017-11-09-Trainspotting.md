@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 4'
+title: 'Trainspotting'
 date: 2017-11-09
 permalink: /posts/2017/11/Trainspotting/
 tags:
