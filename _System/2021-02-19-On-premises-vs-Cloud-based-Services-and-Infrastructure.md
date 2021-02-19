@@ -27,33 +27,35 @@ Trade-offs between **On-premises** vs. **Cloud System** to narrow down that focu
 Both **storage** and **software** are vital to a company's ability to function day-to-day. As such, there are several **cloud** and **on-premises** offerings for storage and software applications. 
 
 ### Cloud Storage vs On-Premises Storage  
-### Advantages Of Cloud Storage  
+### Advantages Of Cloud Storage    
 Cost-saving benefits along with functional ones like regular data backups and the ability to scale easily. 
-- **Reduce IT staff's reponsibilities**: 
+- **Reduce IT staff's reponsibilities**:  
 managed by others. Won't take time to install new software or updates. freeing up time for other tasks. 
-- **Eliminate capital expenses**: 
+- **Eliminate capital expenses**:   
 on-premises storage is considered a capital expense requires a large initial investment to purchase equipment and install, cloud storage is considered an operational expense and pay an monthly subscription. 
-- **Adjust to your budget and needs**: 
+- **Adjust to your budget and needs**:   
 help company keep their initial costs low, cloud-based companies can adjust their prices to meet the company budget for scaling up or scaling down the services. Offering the flexibility.
-- **Perform regular data backups**: 
+- **Perform regular data backups**:   
 minimize the risk of losing critical information.
 
 ### Disadvantages Of Cloud Storage   
-- **Internet determines user experience**
+- **Internet determines user experience**   
 A redundant internet connection should also be considered if a majority of the workload will be hosted in the Cloud. Slow internet can provide horrible user experience while they access their cloud servers. 
 - **Costs can balloon with little warning**  
 Cost determent if left unmanaged. 
 - **Access is based on connection**  
 - **Litigation - search warrant** 
-- **Data is less secure** 
+- **Data is less secure**  
 ask about security practices and procedures of the Cloud company and how they encrypt your data while it’s in transit and at rest.  
 
 ### Advantages Of On-Premises Storage   
 Responsibe for the lifecycle management  
 - **Operate without internet** 
 - **Lower monthly internet costs** 
-- **Provide greater security** 
+- **Provide greater security**  
+Unlike cloud-storage, which is more vulnerable to third parties and prying eyes, on-premises storage is completely restricted from anyone other than authorized personnel. On-premises servers are not accessible to those outside the network, as they are not storing the data online. For companies who handle sensitive data, like those in the financial industry, on-premises storage may be a preferred option. 
 - **Offer control over server hardware**  
+Potentially, being able to modify the server’s hardware can give savvy companies greater flexibility and customization for their storage needs.
 
 ### Disadvantages Of On-Premises Storage    
 - **Require extra IT support** 
@@ -86,6 +88,12 @@ Responsibe for the lifecycle management
 - **Remote offices and mobile workforce** 
 - **Upfront costs** 
 
+### Considering 
+- **Deployment**  
+- **Cost**  
+- **Control**
+- **Security**
+- **Compliance** 
 
 ### More info 
 - **hybird cloud** 
