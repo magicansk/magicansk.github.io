@@ -14,7 +14,7 @@ tags:
 - [Code on Demand](#Code-on-Demand)   
 
 ### Uniform Interface  
-Only one logical URI, that should provide a way to fetch related or additional data. Synonymize a resource with a web page. 
+Only one logical URI, that should provide a way to fetch related or additional data. Synonymize a resource with a web page. **Synonymize a resource with a webpage**
 ### Client-Server 
 
 ### Stateless 
