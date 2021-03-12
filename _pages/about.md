@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Magicansk's Space"
+title: "Magicansk@linux:~#"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
