@@ -1,7 +1,7 @@
 ---
-title: 'NLB'
-date: 2021-03-03
-permalink: /posts/2021/03/Mail-Server-transition-to-Google-Workspace
+title: 'Slack Integration Atlassian'
+date: 2021-05-29
+permalink: /posts/2021/03/Slack-Integration-Atlassian
   - System
 
 ---
